@@ -1,7 +1,7 @@
 # NorthReader Issue Tracker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Futureglobe/NorthReader_IssueTracker/master/appLogo.png" width="150"/>
+  <img src="https://raw.githubusercontent.com/Futureglobe/NorthReader_IssueTracker/master/northreaderlogo.png" width="150"/>
 </p>
 
 
